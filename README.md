@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm LakshmanShankar</h1>
 
-<h3 align="center">I am a developer love writing React code</h3>
+<h3 align="center">I am a developer love writing React code building new components keep learning  and building new things with React/javascript and using python for backend</h3>
 
 - 🌱 I’m currently learning **React/Python**
 
